@@ -8,6 +8,42 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:530625670600:android:447fd4982b2a422240a4fd",
+        "android_client_info": {
+          "package_name": "com.alfaresmedical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530625670600-vtb54gf8a7d90b7mg4975or1cptarubb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QeaTh-4B34oHwCp8r93pnkcKyBjqisk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530625670600-vtb54gf8a7d90b7mg4975or1cptarubb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530625670600-6e3feqcinguq1j98doje75i33852s8m2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flyweb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:530625670600:android:f3f9a570d6f7f92340a4fd",
         "android_client_info": {
           "package_name": "com.flyweb"
@@ -30,6 +66,13 @@
             {
               "client_id": "530625670600-vtb54gf8a7d90b7mg4975or1cptarubb.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "530625670600-6e3feqcinguq1j98doje75i33852s8m2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flyweb"
+              }
             }
           ]
         }
