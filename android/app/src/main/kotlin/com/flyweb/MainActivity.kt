@@ -1,4 +1,4 @@
-package com.flyweb
+package alfares_medical
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
